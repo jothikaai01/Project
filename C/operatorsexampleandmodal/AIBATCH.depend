@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1701241759 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\addition.c
+	<stdio.h>
+
+1701242549 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\subraction.c
+	<stdio.h>
+
+1701244504 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701242999 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\multiplication.c
+	<stdio.h>
+
+1701243580 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\division.c
+	<stdio.h>
+
+1701244003 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\modulas.c
+	<stdio.h>
+
+1701244459 source:c:\users\user\desktop\ai batch01\cdemo\aibatch\increment.c
+	<stdio.h>
+
