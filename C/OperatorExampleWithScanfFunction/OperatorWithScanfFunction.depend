@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705406766 source:c:\users\admin\desktop\c class\operatorwithscanffunction\main.c
+	<stdio.h>
+	<stdlib.h>
+
