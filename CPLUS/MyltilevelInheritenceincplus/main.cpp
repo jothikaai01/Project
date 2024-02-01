@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 class shop
 {
 public :
@@ -14,6 +15,7 @@ public :
     }
 
 };
+//derive class (child class)
 class shirt : public  shop
 {
 public :
@@ -28,6 +30,7 @@ public :
     }
 
 };
+// child class
 class kurthi : public  shop
 {
 public :
@@ -44,9 +47,20 @@ public :
 
 };
 
+/*
+int addition()
+{
+    int a,b,c;
+    a=10;
+    b=15;
+    c=a+b;
+    cout << "Addition value is :" << (a+b) ;
+}
+*/
 
 int main()
 {
+
     string name ;
     cout << "Shop Name:" ;
     cin >> name ;
@@ -64,6 +78,10 @@ int main()
     kt.colour ();
     kt.sizeofdress ();
     cout << " kurthi class is end" << endl ;
+    /*
+    addition();
+    */
 
     return 0;
 }
+
