@@ -9,7 +9,7 @@ con=mysql.connector.connect(
 
 print(con)
 result=con.cursor()
-result.execute("show tables")
+result.execute("select * from syst_info")
 resultshow=result.fetchall()
 for x in resultshow :
     print(x)
